@@ -2,6 +2,18 @@
 layout: default
 ---
 
+## Welcome!
+
+Starting the Fall of 2019, I am going to be a Tenure-track Assistant Professor in the [Department of Statistics at University of California, Los Angeles](http://statistics.ucla.edu/). Currently, 
+I am Neyman Visiting Assistant Professor in the [Department of Statistics at University of California, Berkeley](http://statistics.berkeley.edu/).  Before that, I earned a  Ph.D. in statistics at [The University of Texas at Austin](https://stat.utexas.edu/) in May 2017 under the supervision of  [Prof. James Scott](http://jgscott.github.io/). Prior to that, I completed a B.S in Mathematics at [CIMAT](https://www.cimat.mx/en) in April 2013 advised by [Prof. Daniel Hernandez-Hernandez](https://www.cimat.mx/~dher/). 
+A copy of my CV  can be found [here](https://github.com/hernanmp/hernanmp.github.io/blob/master/cv_oscar_madrid.pdf).
+
+
+
+### Papers
+
+**Furkan Eris**, Ajay Joshi, Andrew Kahng, Yenai Ma, Saiful Mojumder,Tiansheng Zhang. Leveraging thermally-aware chiplet organization in 2.5 D systems to reclaim dark silicon. **Design, Automation \& Test in Europe Conference \& Exhibition (DATE), 1441--1446, 2018**. [PDF](http://people.bu.edu/joshi/files/dark-silicon-date-2018.pdf).
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -117,18 +129,6 @@ end
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
-
-## Welcome!
-
-Starting the Fall of 2019, I am going to be a Tenure-track Assistant Professor in the [Department of Statistics at University of California, Los Angeles](http://statistics.ucla.edu/). Currently, 
-I am Neyman Visiting Assistant Professor in the [Department of Statistics at University of California, Berkeley](http://statistics.berkeley.edu/).  Before that, I earned a  Ph.D. in statistics at [The University of Texas at Austin](https://stat.utexas.edu/) in May 2017 under the supervision of  [Prof. James Scott](http://jgscott.github.io/). Prior to that, I completed a B.S in Mathematics at [CIMAT](https://www.cimat.mx/en) in April 2013 advised by [Prof. Daniel Hernandez-Hernandez](https://www.cimat.mx/~dher/). 
-A copy of my CV  can be found [here](https://github.com/hernanmp/hernanmp.github.io/blob/master/cv_oscar_madrid.pdf).
-
-
-
-### Papers
-
-**Furkan Eris**, Ajay Joshi, Andrew Kahng, Yenai Ma, Saiful Mojumder,Tiansheng Zhang. Leveraging thermally-aware chiplet organization in 2.5 D systems to reclaim dark silicon. **Design, Automation \& Test in Europe Conference \& Exhibition (DATE), 1441--1446, 2018**. [PDF](http://people.bu.edu/joshi/files/dark-silicon-date-2018.pdf).
 
 
 
