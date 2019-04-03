@@ -118,6 +118,20 @@ end
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
 
+## Welcome!
+
+Starting the Fall of 2019, I am going to be a Tenure-track Assistant Professor in the [Department of Statistics at University of California, Los Angeles](http://statistics.ucla.edu/). Currently, 
+I am Neyman Visiting Assistant Professor in the [Department of Statistics at University of California, Berkeley](http://statistics.berkeley.edu/).  Before that, I earned a  Ph.D. in statistics at [The University of Texas at Austin](https://stat.utexas.edu/) in May 2017 under the supervision of  [Prof. James Scott](http://jgscott.github.io/). Prior to that, I completed a B.S in Mathematics at [CIMAT](https://www.cimat.mx/en) in April 2013 advised by [Prof. Daniel Hernandez-Hernandez](https://www.cimat.mx/~dher/). 
+A copy of my CV  can be found [here](https://github.com/hernanmp/hernanmp.github.io/blob/master/cv_oscar_madrid.pdf).
+
+
+
+### Papers
+
+
+**O.H.M. Padilla**,  Alex Athey, Alex Reinhart, James G. Scott.  Sequential nonparametric tests for a change in distribution: an application to detecting radiological anomalies. **To appear in Journal of the American Statistical Association.** [arXiv](https://arxiv.org/abs/1612.07867). 
+
+
 ```
 The final element.
 ```
