@@ -128,8 +128,19 @@ A copy of my CV  can be found [here](https://github.com/hernanmp/hernanmp.github
 
 ### Papers
 
+@inproceedings{eris2018leveraging,
+  title={},
+  author={},
+  booktitle={2018 Design, Automation \& Test in Europe Conference \& Exhibition (DATE)},
+  pages={1441--1446},
+  year={2018},
+  organization={IEEE}
+}
 
-**O.H.M. Padilla**,  Alex Athey, Alex Reinhart, James G. Scott.  Sequential nonparametric tests for a change in distribution: an application to detecting radiological anomalies. **To appear in Journal of the American Statistical Association.** [arXiv](https://arxiv.org/abs/1612.07867). 
+
+
+**Furkan Eris**, Ajay Joshi, Andrew Kahng, Yenai Ma, Saiful Mojumder,Tiansheng Zhang. Leveraging thermally-aware chiplet organization in 2.5 D systems to reclaim dark silicon. **Design, Automation \& Test in Europe Conference \& Exhibition (DATE), 2018, 1441--1446, 2018**. [PDF](http://people.bu.edu/joshi/files/dark-silicon-date-2018.pdf).
+
 
 
 ```
