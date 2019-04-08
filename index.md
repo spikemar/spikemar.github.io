@@ -11,6 +11,6 @@ Ayse Coskun, **Furkan Eris**, Ajay Joshi, Andrew Kahng, Yenai Ma, Tiansheng Zhan
 ### Industry Experience
 
 * AMD - Performance Engineer (AMD, Boxborough, USA)
-> I designed methods to increase the performance in next-generation processors. 
-> Current patent submission in process.
-> Current publication in process.
+  * I designed methods to increase the performance in next-generation processors. 
+  * Current patent submission in process.
+  * Current publication in process.
