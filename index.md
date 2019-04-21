@@ -14,3 +14,14 @@ Ayse Coskun, **Furkan Eris**, Ajay Joshi, Andrew Kahng, Yenai Ma, Tiansheng Zhan
   * I designed methods to increase the performance in next-generation processors. 
   * Current patent submission in process.
   * Current publication in process.
+ 
+### Services
+
+* External Reviewer DAC2019
+* External Reviewer DAC2018
+
+
+### Awards
+
+* Best GTF Award (Graduate Teaching Fellow) *(Boston University, 2018-2019)*
+* Top 100 Republic of Turkey Student Scholarship *(Turkey, 2012-2016)*
