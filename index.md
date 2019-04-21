@@ -28,6 +28,3 @@ Ayse Coskun, **Furkan Eris**, Ajay Joshi, Andrew Kahng, Yenai Ma, Tiansheng Zhan
 * Best GTF Award (Graduate Teaching Fellow) *(Boston University, 2018-2019)*
 * Top 100 Republic of Turkey Student Scholarship *(Turkey, 2012-2016)*
 
-### External Links
-
- [<img src="/assets/img/github.svg" width="70" height="40" />](https://www.linkedin.com/in/furkan-eris)[<img src="/assets/img/linkedin.svg" width="70" height="40" />](https://github.com/spikemar)[<img src="assets/img/google_scholar.svg" width="70" height="40" />](https://scholar.google.com/citations?user=IHDxIN0AAAAJ&hl=en)
