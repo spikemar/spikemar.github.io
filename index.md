@@ -2,14 +2,8 @@
 I was born in Turkey, moved to the USA, moved back to Turkey, now I, once again, reside in the USA. I have a fairly wide range of interests but my education is in Electrical and Computer Engineering, primarily in computer systems design from the circuit level to the system level. My bachelor(s) were in physics and electrical/electronics engineering at Bogazici University Turkey (completed 2016). I am currently a PhD student at Boston University (Expected 2021), as part of [BU ICSG](https://www.bu.edu/icsg/). I have recently been picked as best graduate teaching fellow for Boston University (2017-2018). I have also been selected as a DAC Richard Newton Young student fellow and I was a recipient of a scholarship to attend the 50th ACM A.M. Turing Award conference. A copy of my CV  can be found [here](https://github.com/spikemar/spikemar.github.io/blob/master/docs/cv.pdf).
 ### External Links
 
+ [<img src="https://github.com/spikemar/spikemar.github.io/blob/master/assets/img/github.svg" width="70" height="40">](https://www.linkedin.com/in/furkan-eris)[<img src="https://github.com/spikemar/spikemar.github.io/blob/master/assets/img/linkedin.svg" width="70" height="40">](https://github.com/spikemar)[<img src="https://github.com/spikemar/spikemar.github.io/blob/master/assets/img/google_scholar.svg" width="70" height="40">](https://scholar.google.com/citations?user=IHDxIN0AAAAJ&hl=en)
 
-
-
-<p float="left">
- [<img src="https://github.com/spikemar/spikemar.github.io/blob/master/assets/img/github.svg" width="70" height="40">](https://www.linkedin.com/in/furkan-eris) 
- [<img src="https://github.com/spikemar/spikemar.github.io/blob/master/assets/img/linkedin.svg" width="70" height="40">](https://github.com/spikemar)
- [<img src="https://github.com/spikemar/spikemar.github.io/blob/master/assets/img/google_scholar.svg" width="70" height="40">](https://scholar.google.com/citations?user=IHDxIN0AAAAJ&hl=en)
-</p>
 
 
 
