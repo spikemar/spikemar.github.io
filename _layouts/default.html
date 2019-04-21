@@ -24,7 +24,7 @@
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
         
-        
+         {% if site.github.is_user_page %}
        External Links <br />
         <br />
         <br />
@@ -32,6 +32,7 @@
          <a href="https://www.linkedin.com/in/furkan-eris"><img border="0" alt="LinkedIn" src="/assets/img/linkedin.svg" width="70" height="40">
            <a href="https://scholar.google.com/citations?user=IHDxIN0AAAAJ&hl=en"><img border="0" alt="Google Scholar" src="assets/img/google_scholar.svg" width="70" height="40">
          <br />
+             {% endif %}
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
