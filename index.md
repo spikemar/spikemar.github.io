@@ -30,4 +30,4 @@ Ayse Coskun, **Furkan Eris**, Ajay Joshi, Andrew Kahng, Yenai Ma, Tiansheng Zhan
 
 ### External Links
 
- [<img src="https://github.com/spikemar/spikemar.github.io/blob/master/assets/img/github.svg" width="70" height="40">](https://www.linkedin.com/in/furkan-eris)[<img src="https://github.com/spikemar/spikemar.github.io/blob/master/assets/img/linkedin.svg" width="70" height="40">](https://github.com/spikemar)[<img src="https://github.com/spikemar/spikemar.github.io/blob/master/assets/img/google_scholar.svg" width="70" height="40">](https://scholar.google.com/citations?user=IHDxIN0AAAAJ&hl=en)
+ [<img src="https://github.com/spikemar/spikemar.github.io/blob/master/assets/img/github.svg" width="70" height="40" />](https://www.linkedin.com/in/furkan-eris)[<img src="https://github.com/spikemar/spikemar.github.io/blob/master/assets/img/linkedin.svg" width="70" height="40" />](https://github.com/spikemar)[<img src="https://github.com/spikemar/spikemar.github.io/blob/master/assets/img/google_scholar.svg" width="70" height="40" />](https://scholar.google.com/citations?user=IHDxIN0AAAAJ&hl=en)
