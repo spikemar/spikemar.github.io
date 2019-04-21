@@ -3,12 +3,13 @@ I was born in Turkey, moved to the USA, moved back to Turkey, now I, once again,
 ### External Links
 
 
-[<img src="https://github.com/spikemar/spikemar.github.io/blob/master/assets/img/Github.jpg" width="70" height="40">](https://www.linkedin.com/in/furkan-eris) 
 
-[<img src="https://github.com/spikemar/spikemar.github.io/blob/master/assets/img/linkedin.svg" width="70" height="40">](https://github.com/spikemar)
 
-[<img src="https://github.com/spikemar/spikemar.github.io/blob/master/assets/img/google_scholar.svg" width="70" height="40">](https://scholar.google.com/citations?user=IHDxIN0AAAAJ&hl=en)
-
+<p float="left">
+ [<img src="https://github.com/spikemar/spikemar.github.io/blob/master/assets/img/github.svg" width="70" height="40">](https://www.linkedin.com/in/furkan-eris) 
+ [<img src="https://github.com/spikemar/spikemar.github.io/blob/master/assets/img/linkedin.svg" width="70" height="40">](https://github.com/spikemar)
+ [<img src="https://github.com/spikemar/spikemar.github.io/blob/master/assets/img/google_scholar.svg" width="70" height="40">](https://scholar.google.com/citations?user=IHDxIN0AAAAJ&hl=en)
+</p>
 
 
 
