@@ -6,7 +6,9 @@ I was born in Turkey, moved to the USA, moved back to Turkey, now I, once again,
 
 [Google Scholar](https://scholar.google.com/citations?user=IHDxIN0AAAAJ&hl=en)
 
-[https://github.com/spikemar/spikemar.github.io/blob/master/assets/img/Github.jpg](https://github.com/spikemar)
+[<img src="https://github.com/spikemar/spikemar.github.io/blob/master/assets/img/Github.jpg">](https://github.com/spikemar)
+
+
 
 ### Papers
 
