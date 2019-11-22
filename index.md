@@ -16,9 +16,13 @@ Ayse Coskun, **Furkan Eris**, Ajay Joshi, Andrew Kahng, Yenai Ma, Tiansheng Zhan
 
 ### Industry Experience
 
+* **AMD - Performance Engineer** *(September 2019 - Current, Boxborough, USA)*
+  * Extension to the work I started in my prior internship. 
+
+
 * **AMD - Performance Engineer** *(June 2018 - December 2018, Boxborough, USA)*
   * I designed methods to increase the performance in next-generation processors. 
-  * Current patent submission in process.
+  * Patent Pending.
   * Current publication in process.
  
 ### Services
