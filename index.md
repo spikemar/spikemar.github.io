@@ -38,8 +38,9 @@ Ayse Coskun, **Furkan Eris**, Ajay Joshi, Andrew Kahng, Yenai Ma, Tiansheng Zhan
 
 ### Awards
 
-* DAC YFellowship *(San Francisco, California, 2020)*
+* DAC Fellowship *(San Francisco, California, 2020)*
 * Best GTF Award (Graduate Teaching Fellow) *(Boston University, 2018-2019)*
 * Top 100 Republic of Turkey Student Scholarship *(Turkey, 2012-2016)*
-* DAC Young Richard Newton Fellowship *(Austin, Texas, 2017)*
+* SIGARCH Executive Committee 50th Turing Award Scholarship *(San Francisco, California, 2017)*
+* DAC Richard Newton Fellowship *(Austin, Texas, 2017)*
 
