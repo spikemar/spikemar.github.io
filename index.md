@@ -18,17 +18,18 @@ Ayse Coskun, **Furkan Eris**, Ajay Joshi, Andrew Kahng, Yenai Ma, Tiansheng Zhan
 
 ### Industry Experience
 
-* **AMD - Performance Engineer** *(September 2019 - Current, Boxborough, USA)*
-  * Extension to the work I started in my prior internship. 
+* **AMD - Performance Engineer** *(September 2019 - May 2020, Boxborough, USA)*
+  * Extended my prior work I started in my first internship. 
+  * Submited Four Patent Filings.
 
 
 * **AMD - Performance Engineer** *(June 2018 - December 2018, Boxborough, USA)*
-  * I designed methods to increase the performance in next-generation processors. 
+  * Designed methods to increase the performance in next-generation processors. 
   * Patent Pending.
-  * Current publication in process.
  
 ### Services
 
+* External Reviewer of ACM/IEEE International Conference On Computer Aided Design 2020 *(ICCAD2020)*
 * Expert Reviewer of ACM/IEEE Design Automation Conference 2020 *(DAC2020)*
 * Expert Reviewer of ACM/IEEE Design Automation Conference 2019 *(DAC2019)*
 * External Reviewer of ACM/IEEE Design Automation Conference 2019 *(DAC2019)*
@@ -37,6 +38,8 @@ Ayse Coskun, **Furkan Eris**, Ajay Joshi, Andrew Kahng, Yenai Ma, Tiansheng Zhan
 
 ### Awards
 
+* DAC YFellowship *(San Francisco, California, 2020)*
 * Best GTF Award (Graduate Teaching Fellow) *(Boston University, 2018-2019)*
 * Top 100 Republic of Turkey Student Scholarship *(Turkey, 2012-2016)*
+* DAC Young Richard Newton Fellowship *(Austin, Texas, 2017)*
 
