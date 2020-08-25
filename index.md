@@ -29,6 +29,7 @@ Ayse Coskun, **Furkan Eris**, Ajay Joshi, Andrew Kahng, Yenai Ma, Tiansheng Zhan
  
 ### Services
 
+* Reviewer of IEEE Open Journal of Computer Science 2020 *(OJCS2020)*
 * External Reviewer of ACM/IEEE International Conference On Computer Aided Design 2020 *(ICCAD2020)*
 * Expert Reviewer of ACM/IEEE Design Automation Conference 2020 *(DAC2020)*
 * Expert Reviewer of ACM/IEEE Design Automation Conference 2019 *(DAC2019)*
