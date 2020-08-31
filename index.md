@@ -8,7 +8,7 @@ Adaptation, US Patent Pending 16/454,027.
 
 ### Papers
 
-Ayse Coskun, **Furkan Eris**, Ajay Joshi, Andrew B. Kahng, Yenai Ma, Aditya Narayan, Vaishnav Srinivas. Cross-Layer Co-Optimization of Network Design and Chiplet Placement in 2.5 \D Systems. **Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), To Appear**.
+Ayse Coskun, **Furkan Eris**, Ajay Joshi, Andrew B. Kahng, Yenai Ma, Aditya Narayan, Vaishnav Srinivas. Cross-Layer Co-Optimization of Network Design and Chiplet Placement in 2.5D Systems. **Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), To Appear**.
 
 Ayse Coskun, **Furkan Eris**, Ajay Joshi, Andrew Kahng, Yenai Ma, Vaishnav Srinivas. A Cross-Layer Methodology for Design and Optimization of Networks in 2.5D Systems. **Proc. International Conference on Computer-Aided Design (ICCAD), 101:1--101:8, 2018**. [PDF](http://people.bu.edu/joshi/files/interposer-nw-iccad-2018.pdf).
 
