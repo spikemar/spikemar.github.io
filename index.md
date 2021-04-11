@@ -11,7 +11,9 @@ Multi-Class Multi-Label Classification Using Clustered Singular Decision Trees F
 
 ### Papers
 
-Ayse Coskun, **Furkan Eris**, Ajay Joshi, Andrew B. Kahng, Yenai Ma, Aditya Narayan, Vaishnav Srinivas. Cross-Layer Co-Optimization of Network Design and Chiplet Placement in 2.5D Systems. **Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), To Appear**.
+Sadullah Canakci, Leila Delshadtehrani, **Furkan Eris**, Micheal Taylor, Manuel Egele, Ajay Joshi. DirectFuzz: Automated Test Generation for RTL Designs using Directed Graybox Fuzzing. **Design Automation Conference (DAC) 2021 To Appear**.
+
+Ayse Coskun, **Furkan Eris**, Ajay Joshi, Andrew B. Kahng, Yenai Ma, Aditya Narayan, Vaishnav Srinivas. Cross-Layer Co-Optimization of Network Design and Chiplet Placement in 2.5D Systems. **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), vol. 39, no. 12, pp. 5183-5196, Dec. 2020**. [PDF](http://people.bu.edu/joshi/files/Ma_TCAD_2020.pdf)
 
 Ayse Coskun, **Furkan Eris**, Ajay Joshi, Andrew Kahng, Yenai Ma, Vaishnav Srinivas. A Cross-Layer Methodology for Design and Optimization of Networks in 2.5D Systems. **Proc. International Conference on Computer-Aided Design (ICCAD), 101:1--101:8, 2018**. [PDF](http://people.bu.edu/joshi/files/interposer-nw-iccad-2018.pdf).
 
