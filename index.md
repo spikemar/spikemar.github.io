@@ -3,8 +3,11 @@ I was born in Turkey, moved to the USA, moved back to Turkey, now once again, I 
 
 ### Patents
 
-Multi-Class Multi-Label Classification Using Clustered Singular Decision Trees For Hardware
-Adaptation, US Patent Pending 16/454,027.
+Invariant Statistics-based Configuration of Processor Components, US Patent Pending 17/217,101.
+
+Hardware Configuration Selection Using Machine Learning Model, US Patent Pending 17/133,581.
+
+Multi-Class Multi-Label Classification Using Clustered Singular Decision Trees For Hardware Adaptation, US Patent Pending 16/454,027.
 
 ### Papers
 
