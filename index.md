@@ -7,7 +7,7 @@ Invariant Statistics-based Configuration of Processor Components, US Patent Pend
 
 Hardware Configuration Selection Using Machine Learning Model, US Patent Pending 17/133,581.
 
-Multi-Class Multi-Label Classification Using Clustered Singular Decision Trees For Hardware Adaptation, US Patent Pending 16/454,027.
+Multi-Class Multi-Label Classification Using Clustered Singular Decision Trees For Hardware Adaptation, US Patent 11,455,252
 
 ### Papers
 
@@ -26,7 +26,11 @@ Ayse Coskun, **Furkan Eris**, Ajay Joshi, Andrew Kahng, Yenai Ma, Vaishnav Srini
 Ayse Coskun, **Furkan Eris**, Ajay Joshi, Andrew Kahng, Yenai Ma, Tiansheng Zhang. Reclaiming Dark Silicon Using Thermally-Aware Chiplet Organization in 2.5D Integrated Systems. **Proc. Boston area ARChitecture (BARC) Workshop, 2018**.
 
 ### Industry Experience
-* **AMD - Performance Engineer** *(May 2021 - Current, Boxborough, USA)*
+* **AMD - RAD (Research Advanced Development)** *(May 2023 - Current, Sunnyvale, USA)*
+  * Core Optimization
+  * Future GPU Architectures
+    
+* **AMD - Performance Engineer** *(May 2021 - December 2021)*
   * Stall Tracking Project.
   
 * **AMD - Performance Engineer** *(September 2019 - May 2020, Boxborough, USA)*
@@ -39,6 +43,11 @@ Ayse Coskun, **Furkan Eris**, Ajay Joshi, Andrew Kahng, Yenai Ma, Tiansheng Zhan
  
 ### Services
 
+* TPC Member of IEEE/ACM Design Automation Conference *(DAC2024)*
+* Reviewer of IEEE/ACM International Symposium on Computer Architecture *(ISCA2024)*
+* Reviewer of IEEE Transactions on Very Large Scale Integration Systems *(TVLSI2024)*
+* Reviewer of IEEE Transactions on Architecture and Code Optimization *(TACO2023)*
+* Reviewer of IEEE Computer Architecture Letters *(CAL2023)*
 * Reviewer of IEEE Open Journal of Computer Science 2021 *(OJCS2021)*
 * Reviewer of IEEE Open Journal of Computer Science 2020 *(OJCS2020)*
 * External Reviewer of ACM/IEEE International Conference On Computer Aided Design 2020 *(ICCAD2020)*
